@@ -1,2 +1,2 @@
 # atm-project
-atm-project in java/netbeans
+atm/banking project in java/netbeans
